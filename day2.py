@@ -7,3 +7,5 @@ animals = ['cat', 'dog', 'elephant', 'lion', 'tiger']
 print('animals:', animals) 
 mixedtypes = ['apple', 1, 2.5, True, None]
 print('mixedtypes:', mixedtypes)
+banks = ('JP Morgan', 'NIB', 'ADB')
+print('banks:', banks)
